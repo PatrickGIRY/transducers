@@ -21,4 +21,4 @@ Savez-vous qu'avec cette <i> fonction de réduction </i> on peut définir les fo
 
 Notre démarche consiste à l'aide d'un exemple métier concret (calculer le montant total des factures dues pour un mois donné) de partir d'une implémentation impérative, pour ensuite aller vers une implémentation fonctionnelle. On verra au passage comme écrire les fonctions `reduce`, `map` et `filter`. En refactorisant successivement notre fonction de calcul nous aboutirons au développement et à l'utilisation des [`Transducers`](http://clojure.org/reference/transducers).
 
-Si le sujet vous intéresse vous pouvez retrouver mon article complet sur le [blog d'Arolla](http://blog.arolla.fr/).
+Si le sujet vous intéresse vous pouvez retrouver mon article complet sur le [blog d'Arolla](http://www.arolla.fr/blog/2017/01/etait-fonction-reduce/).
